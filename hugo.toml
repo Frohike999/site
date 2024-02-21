@@ -1,0 +1,4 @@
+baseURL = 'https://frohos.net/'
+languageCode = 'en-us'
+title = 'frohos.net'
+theme = 'ananke'
